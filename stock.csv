@@ -1,0 +1,6 @@
+item_name,current_quantity,reorder_threshold
+Widget A,12,20
+Widget B,45,30
+Widget C,5,15
+Widget D,100,50
+Widget E,8,8

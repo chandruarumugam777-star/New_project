@@ -1,0 +1,4 @@
+item_name,current_quantity,reorder_threshold,shortfall,status
+Widget A,12,20,8,LOW
+Widget C,5,15,10,CRITICAL
+Widget E,8,8,0,LOW
